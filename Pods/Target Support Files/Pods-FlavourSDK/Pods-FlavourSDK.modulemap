@@ -1,0 +1,6 @@
+module Pods_FlavourSDK {
+  umbrella header "Pods-FlavourSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
